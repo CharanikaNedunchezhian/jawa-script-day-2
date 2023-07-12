@@ -1,0 +1,12 @@
+body{
+    background-color: deeppink;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+.c{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+
+}
